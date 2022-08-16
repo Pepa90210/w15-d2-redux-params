@@ -1,5 +1,5 @@
 {
-  "name": "redux-parameters",
+  "name": "redux-params",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +39,7 @@
   },
   "devDependencies": {
     "redux-logger": "^3.0.6"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
